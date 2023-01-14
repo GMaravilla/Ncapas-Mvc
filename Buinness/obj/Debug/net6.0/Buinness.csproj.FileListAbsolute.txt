@@ -1,0 +1,15 @@
+D:\programas de visual\SolucionNCapas\Buinness\bin\Debug\net6.0\Buinness.deps.json
+D:\programas de visual\SolucionNCapas\Buinness\bin\Debug\net6.0\Buinness.dll
+D:\programas de visual\SolucionNCapas\Buinness\bin\Debug\net6.0\Buinness.pdb
+D:\programas de visual\SolucionNCapas\Buinness\bin\Debug\net6.0\Data.dll
+D:\programas de visual\SolucionNCapas\Buinness\bin\Debug\net6.0\Data.pdb
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.csproj.AssemblyReference.cache
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.GeneratedMSBuildEditorConfig.editorconfig
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.AssemblyInfoInputs.cache
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.AssemblyInfo.cs
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.csproj.CoreCompileInputs.cache
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.csproj.CopyComplete
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.dll
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\refint\Buinness.dll
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\Buinness.pdb
+D:\programas de visual\SolucionNCapas\Buinness\obj\Debug\net6.0\ref\Buinness.dll
